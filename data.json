@@ -1,0 +1,879 @@
+{
+  "courses": [
+    {
+      "name": "吉他系列",
+      "type": 0,
+      "course": [
+        {
+          "name": "吉他自学三月通",
+          "time": 28,
+          "difficulty": 1,
+          "rating": 3,
+          "info": "吉他自学三月通为一部突破传统吉他教材模式的自学视频，各级水平的吉他爱好者都能从中汲取大量的营养",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很不错，已经顺利入门",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "老师教学很认真，声音很舒服",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://hellorfimg.zcool.cn/preview/260235833.jpg",
+          "image": "http://p2.gexing.com/G1/M00/F9/33/rBACFFPDk2ih-YuTAADvfhHNVVE737.jpg"
+        },
+        {
+          "name": "大伟吉他教室",
+          "time": 30,
+          "difficulty": 2,
+          "info": "我们用心做音乐",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://cdn.daweijita.com/2015/12/ddnneeene2-avatar.jpg",
+          "image": "http://www.jitashe.net/data/attachment/collection/201407/collection_1020_icon.jpg"
+        },
+        {
+          "name": "小花教你学吉他",
+          "time": 20,
+          "difficulty": 2,
+          "info": "我是会卖萌会弹吉他的小花",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "一般般",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.cnlogo8.com/upimg/2014/e5m3xfgdlwk.png",
+          "image": "http://img01.taopic.com/151022/240411-1510220J33337.jpg"
+        },
+        {
+          "name": "以琴会友",
+          "time": 68,
+          "difficulty": 3,
+          "info": "国内最早从事吉他教学的品牌",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "顶顶",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://pic31.nipic.com/20130806/3347542_105937812000_2.jpg",
+          "image": "http://tupian.aladd.net/2015/1/2221.jpg"
+        },
+      ]
+    },
+    {
+      "name": "小提琴系列",
+      "type": 1,
+      "course": [
+        {
+          "name": "小提琴入门第一课",
+          "time": 12,
+          "difficulty": 1,
+          "rating": 3,
+          "info": "小提琴是一种四条弦的弓弦乐器，是提琴家族中的主要和高音成员",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很不错，已经顺利入门",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "老师教学很认真，声音很舒服",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fscomps.fotosearch.com/compc/CSP/CSP816/k22101431.jpg",
+          "image": "http://images.ccoo.cn/bbs/2010831/201083110563025.jpg"
+        },
+        {
+          "name": "大伟小提琴教室",
+          "time": 42,
+          "difficulty": 1,
+          "info": "我们用心做音乐",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fscomps.fotosearch.com/compc/CSP/CSP990/k9812131.jpg",
+          "image": "http://img.xiami.net/images/collect/227/27/112736227_1440658950_3fm5.jpg"
+        },
+        {
+          "name": "小花教你学小提琴",
+          "time": 20,
+          "difficulty": 2,
+          "info": "我是会卖萌的小花",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "一般般",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://thumb103.hellorf.com/preview/297850070.jpg",
+          "image": "http://img01.taopic.com/141107/318753-14110GJP848.jpg"
+        },
+        {
+          "name": "以琴会友",
+          "time": 68,
+          "difficulty": 3,
+          "info": "国内最早从事小提琴教学的品牌",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "顶顶",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://sc.admin5.com/uploads/allimg/100212/102PA3K-8.png",
+          "image": "http://i01.pic.sogou.com/ebcf40cd2d221e98"
+        },
+      ]
+    },
+    {
+      "name": "尤克里里系列",
+      "type": 2,
+      "course": [
+        {
+          "name": "尤克里里入门第一课",
+          "time": 8,
+          "difficulty": 1,
+          "rating": 3,
+          "info": "简单易学，这是一个适合大人及儿童，并且好听易学可爱，又能激发节奏潜能的乐器。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很不错，已经顺利入门",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "老师教学很认真，声音很舒服",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://mvimg1.meitudata.com/55a3be479bda35704.jpg",
+          "image": "http://p3.music.126.net/X858Yf7CzPbmHMkt6xSlwQ==/1372190514741417.jpg"
+        },
+        {
+          "name": "大伟尤克里里教室",
+          "time": 10,
+          "difficulty": 1,
+          "info": "我们用心做音乐",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://mvimg2.meitudata.com/567a9d145896e1634.jpg",
+          "image": "http://img2.ph.126.net/qz7UTzdhOi11NEDHk6oLWw==/6630674140538586635.jpg"
+        },
+        {
+          "name": "小花教你学钢琴",
+          "time": 8,
+          "difficulty": 1,
+          "info": "我是会卖萌的小花",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "一般般",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://mvimg2.meitudata.com/563de6891d1543761.jpg",
+          "image": "http://mvimg2.meitudata.com/55019a2eb48324709.jpg"
+        },
+        {
+          "name": "以琴会友",
+          "time": 5,
+          "difficulty": 1,
+          "info": "国内最早从事尤克里里教学的品牌",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "顶顶",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://pic33.nipic.com/20130911/3347542_161037087374_2.jpg",
+          "image": "http://p5.image.hiapk.com/uploads/allimg/150228/7730-15022QJ911-50.jpg"
+        }
+      ]
+    },
+    {
+      "name": "钢琴系列",
+      "type": 3,
+      "course": [
+        {
+          "name": "钢琴入门第一课",
+          "time": 12,
+          "difficulty": 1,
+          "rating": 3,
+          "info": "钢琴源自西洋古典音乐，遍用于独奏、重奏、伴奏等演出，作曲和排练音乐十分方便。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很不错，已经顺利入门",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "老师教学很认真，声音很舒服",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://pic31.nipic.com/20130724/3347542_125158095340_2.jpg",
+          "image": "http://img3.duitang.com/uploads/item/201603/25/20160325164016_EukVF.thumb.700_0.jpeg"
+        },
+        {
+          "name": "大伟钢琴教室",
+          "time": 28,
+          "difficulty": 3,
+          "info": "我们用心做音乐",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://pic31.nipic.com/20130724/3347542_125158095340_2.jpg",
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
+        },
+        {
+          "name": "小花教你学钢琴",
+          "time": 20,
+          "difficulty": 2,
+          "info": "我是会卖萌的小花",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "一般般",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://pic33.nipic.com/20130911/3347542_161000095360_2.jpg",
+          "image": "http://attach.66rpg.com/bbs/attachment/album/201510/17/214037f8tuxxguxtizpzk0.jpg"
+        },
+        {
+          "name": "以琴会友",
+          "time": 48,
+          "difficulty": 3,
+          "info": "国内最早从事小提琴教学的品牌",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "顶顶",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://pic33.nipic.com/20130911/3347542_161037087374_2.jpg",
+          "image": "http://p5.image.hiapk.com/uploads/allimg/150228/7730-15022QJ911-50.jpg"
+        }
+      ]
+    },
+    {
+      "name": "萨克斯系列",
+      "type": 4,
+      "course": [
+        {
+          "name": "萨克斯入门第一课",
+          "time": 99,
+          "difficulty": 3,
+          "rating": 3,
+          "info": "萨克斯入门第一课",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很不错，已经顺利入门",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "老师教学很认真，声音很舒服",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://i01.pic.sogou.com/c4c3d322132a8164",
+          "image": "http://i01.pic.sogou.com/c4c3d322132a8164"
+        },
+        {
+          "name": "大伟萨克斯教室",
+          "time": 3,
+          "difficulty": 3,
+          "info": "我们用心做音乐",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://pic31.nipic.com/20130724/3347542_125158095340_2.jpg",
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
+        },
+        {
+          "name": "小花教你学萨克斯",
+          "time": 5,
+          "difficulty": 2,
+          "info": "我是会卖萌的小花",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "一般般",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://pic33.nipic.com/20130911/3347542_161000095360_2.jpg",
+          "image": "http://attach.66rpg.com/bbs/attachment/album/201510/17/214037f8tuxxguxtizpzk0.jpg"
+        },
+        {
+          "name": "以琴会友",
+          "time": 48,
+          "difficulty": 3,
+          "info": "国内最早从事萨克斯教学的品牌",
+          "rating": 3,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "顶顶",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://pic33.nipic.com/20130911/3347542_161037087374_2.jpg",
+          "image": "http://p5.image.hiapk.com/uploads/allimg/150228/7730-15022QJ911-50.jpg"
+        }
+      ]
+    },
+  ],
+  "user": {
+    "username": "蜻蜓队长",
+    "usericon": "http://pic.baike.soso.com/ugc/baikepic2/30313/20150910174306-1276906935.jpg/0",
+    "previewTime": "2",
+    "hasLearnItems": [
+      {
+        "name": "吉他自学三月通",
+        "time": 28,
+        "hasLearnTime": 3,
+        "difficulty": 1,
+        "rating": 3,
+        "info": "吉他自学三月通为一部突破传统吉他教材模式的自学视频，各级水平的吉他爱好者都能从中汲取大量的营养",
+        "ratings": [
+          {
+            "username": "3******c",
+            "rateTime": 1469281964000,
+            "rateType": 0,
+            "text": "很不错，已经顺利入门",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "2******3",
+            "rateTime": 1469271264000,
+            "rateType": 0,
+            "text": "老师教学很认真，声音很舒服",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "3******b",
+            "rateTime": 1469261964000,
+            "rateType": 1,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          }
+        ],
+        "icon": "http://hellorfimg.zcool.cn/preview/260235833.jpg",
+        "image": "http://p2.gexing.com/G1/M00/F9/33/rBACFFPDk2ih-YuTAADvfhHNVVE737.jpg"
+      },
+      {
+        "name": "小花教你学吉他",
+        "time": 20,
+        "hasLearnTime": 2,
+        "difficulty": 2,
+        "info": "我是会卖萌会弹吉他的小花",
+        "rating": 3,
+        "ratings": [
+          {
+            "username": "3******c",
+            "rateTime": 1469281964000,
+            "rateType": 1,
+            "text": "一般般",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "2******3",
+            "rateTime": 1469271264000,
+            "rateType": 1,
+            "text": "很一般啊",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "3******b",
+            "rateTime": 1469261964000,
+            "rateType": 0,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          }
+        ],
+        "icon": "http://www.cnlogo8.com/upimg/2014/e5m3xfgdlwk.png",
+        "image": "http://img01.taopic.com/151022/240411-1510220J33337.jpg"
+      },
+      {
+        "name": "小提琴入门第一课",
+        "time": 12,
+        "hasLearnTime": 3,
+        "difficulty": 1,
+        "rating": 3,
+        "info": "小提琴是一种四条弦的弓弦乐器，是提琴家族中的主要和高音成员",
+        "ratings": [
+          {
+            "username": "3******c",
+            "rateTime": 1469281964000,
+            "rateType": 0,
+            "text": "很不错，已经顺利入门",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "2******3",
+            "rateTime": 1469271264000,
+            "rateType": 0,
+            "text": "老师教学很认真，声音很舒服",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "3******b",
+            "rateTime": 1469261964000,
+            "rateType": 1,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          }
+        ],
+        "icon": "http://fscomps.fotosearch.com/compc/CSP/CSP816/k22101431.jpg",
+        "image": "http://images.ccoo.cn/bbs/2010831/201083110563025.jpg"
+      },
+      {
+        "name": "大伟尤克里里教室",
+        "time": 10,
+        "hasLearnTime": 1,
+        "difficulty": 1,
+        "info": "我们用心做音乐",
+        "rating": 3,
+        "ratings": [
+          {
+            "username": "3******c",
+            "rateTime": 1469281964000,
+            "rateType": 0,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "2******3",
+            "rateTime": 1469271264000,
+            "rateType": 0,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "3******b",
+            "rateTime": 1469261964000,
+            "rateType": 1,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          }
+        ],
+        "icon": "http://mvimg2.meitudata.com/567a9d145896e1634.jpg",
+        "image": "http://img2.ph.126.net/qz7UTzdhOi11NEDHk6oLWw==/6630674140538586635.jpg"
+      },
+      {
+        "name": "小花教你学钢琴",
+        "time": 20,
+        "hasLearnTime": 3,
+        "difficulty": 2,
+        "info": "我是会卖萌的小花",
+        "rating": 3,
+        "ratings": [
+          {
+            "username": "3******c",
+            "rateTime": 1469281964000,
+            "rateType": 1,
+            "text": "一般般",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "2******3",
+            "rateTime": 1469271264000,
+            "rateType": 1,
+            "text": "很一般啊",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "3******b",
+            "rateTime": 1469261964000,
+            "rateType": 0,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          }
+        ],
+        "icon": "http://pic33.nipic.com/20130911/3347542_161000095360_2.jpg",
+        "image": "http://attach.66rpg.com/bbs/attachment/album/201510/17/214037f8tuxxguxtizpzk0.jpg"
+      },
+      {
+        "name": "以琴会友",
+        "time": 48,
+        "hasLearnTime": 1,
+        "difficulty": 3,
+        "info": "国内最早从事萨克斯教学的品牌",
+        "rating": 3,
+        "ratings": [
+          {
+            "username": "3******c",
+            "rateTime": 1469281964000,
+            "rateType": 0,
+            "text": "顶顶",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "2******3",
+            "rateTime": 1469271264000,
+            "rateType": 0,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "3******b",
+            "rateTime": 1469261964000,
+            "rateType": 0,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          }
+        ],
+        "icon": "http://pic33.nipic.com/20130911/3347542_161037087374_2.jpg",
+        "image": "http://p5.image.hiapk.com/uploads/allimg/150228/7730-15022QJ911-50.jpg"
+      }
+    ]
+  }
+}
