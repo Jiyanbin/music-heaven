@@ -38,6 +38,7 @@ apiRoutes.get('/user', function (req, res) {
     data: user
   })
 })
+app.use('/api', apiRoutes)
 var compiler = webpack(webpackConfig)
 
 var devMiddleware = require('webpack-dev-middleware')(compiler, {
