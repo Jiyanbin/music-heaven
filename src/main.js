@@ -3,6 +3,9 @@
 import Vue from 'vue';
 import App from './App';
 import VueRouter from 'vue-router';
+import VueResource from 'vue-resource';
+import ElementUI from 'element-ui';
+import 'element-ui/lib/theme-default/index.css';
 import './common/stylus/icon.styl';
 import homePage from './components/homePage/homePage.vue';
 import courses from './components/courses/courses.vue';
@@ -11,6 +14,8 @@ import account from './components/account/account.vue';
 
 
 Vue.use(VueRouter);
+Vue.use(VueResource);
+Vue.use(ElementUI);
 
 const routes = [{
 		path: '',

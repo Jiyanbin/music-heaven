@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <v-header></v-header>
     <keep-active>
       <router-view :courses='courses'></router-view>
     </keep-active>
@@ -16,15 +15,22 @@
 </template>
 <script>
 import header from './components/header/header.vue';
+const ERR_OK = 0;
 export default {
   name: 'app',
   data () {
-      return {
-        courses: []
-      };
-    },
-  components: {
-    'v-header': header
+    return {
+      courses: []
+    };
+  },
+  created () {
+    this.$http.get('/api/courses').then((response) => {
+      response = response.body;
+      if (response.errno === ERR_OK) {
+        this.courses = response.data;
+        console.log(this.courses);
+      }
+    });
   }
 };
 
@@ -49,5 +55,5 @@ export default {
           text-decoration: none
           &.router-link-active
             font-size: 21px
-            color: rgb(220, 20, 20)
+            color: rgba(67, 205, 128, .75)
 </style>
