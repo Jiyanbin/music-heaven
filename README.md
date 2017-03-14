@@ -1,8 +1,8 @@
 # music-heaven
 
-> a music webapp
-> 使用vue2.2框架搭建的SPA应用
-> 使用vue-router/vue-resource/Element-ui/better-scroll的vue相关插件和组件
+> a music webapp  
+> 使用vue2.2框架搭建的SPA应用  
+> 使用vue-router/vue-resource/Element-ui/better-scroll的vue相关插件和组件  
 
 ## Build Setup
 
