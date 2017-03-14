@@ -6,15 +6,14 @@
     <div class='tab-wrapper'>
       <div class='tab'>
         <div class='tab-item'><router-link to='/homePage'>首页</router-link></div>
-        <div class='tab-item'><router-link to='/courses'>全部课程</router-link></div>
-        <div class='tab-item'><router-link to='/myLearn'>我的学习</router-link></div>
+        <div class='tab-item'><router-link to='/courses'>课程</router-link></div>
+        <div class='tab-item'><router-link to='/myLearn'>学习</router-link></div>
         <div class='tab-item'><router-link to='/account'>账号</router-link></div>
       </div>
     </div>
   </div>
 </template>
 <script>
-import header from './components/header/header.vue';
 const ERR_OK = 0;
 export default {
   name: 'app',
@@ -38,16 +37,18 @@ export default {
 <style lang ='stylus' rel='stylesheet/stylus'>
   .tab-wrapper
     border-top: 1px solid rgba(139, 125, 107, 0.5)
+    background: #fff
     position: fixed
     bottom: 0
     width: 100%
-    height: 60px
+    height: 45px
+    z-index: 99
     .tab
       display: flex
       .tab-item
         flex: 1
         display: inline-block
-        line-height: 60px
+        line-height: 45px
         font-size: 20px
         text-align: center
         & > a

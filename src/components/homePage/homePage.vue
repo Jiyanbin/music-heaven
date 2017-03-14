@@ -24,7 +24,10 @@
     					<ul>
     						<li v-for='(musicClass,index) in item.course' class='courses-item'>
     							<img :src='musicClass.image' />
-    							<span class='musicClassName'>{{musicClass.name}}</span>
+                                <div class='music-class-text'>
+    							    <span class='music-class-name'>{{musicClass.name}}</span>
+                                    <span class='music-class-time'>{{musicClass.time}}节课</span>
+                                </div>     
     						</li>
     					</ul>
     				</li>

@@ -1,7 +1,7 @@
 {
   "courses": [
     {
-      "name": "吉他系列",
+      "name": "吉他",
       "type": 0,
       "course": [
         {
@@ -34,7 +34,7 @@
             }
           ],
           "icon": "http://hellorfimg.zcool.cn/preview/260235833.jpg",
-          "image": "http://p2.gexing.com/G1/M00/F9/33/rBACFFPDk2ih-YuTAADvfhHNVVE737.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "大伟吉他教室",
@@ -66,7 +66,7 @@
             }
           ],
           "icon": "http://cdn.daweijita.com/2015/12/ddnneeene2-avatar.jpg",
-          "image": "http://www.jitashe.net/data/attachment/collection/201407/collection_1020_icon.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "小花教你学吉他",
@@ -98,7 +98,7 @@
             }
           ],
           "icon": "http://www.cnlogo8.com/upimg/2014/e5m3xfgdlwk.png",
-          "image": "http://img01.taopic.com/151022/240411-1510220J33337.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "以琴会友",
@@ -130,12 +130,12 @@
             }
           ],
           "icon": "http://pic31.nipic.com/20130806/3347542_105937812000_2.jpg",
-          "image": "http://tupian.aladd.net/2015/1/2221.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         }
       ]
     },
     {
-      "name": "小提琴系列",
+      "name": "小提琴",
       "type": 1,
       "course": [
         {
@@ -168,7 +168,7 @@
             }
           ],
           "icon": "http://fscomps.fotosearch.com/compc/CSP/CSP816/k22101431.jpg",
-          "image": "http://images.ccoo.cn/bbs/2010831/201083110563025.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "大伟小提琴教室",
@@ -200,7 +200,7 @@
             }
           ],
           "icon": "http://fscomps.fotosearch.com/compc/CSP/CSP990/k9812131.jpg",
-          "image": "http://img.xiami.net/images/collect/227/27/112736227_1440658950_3fm5.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "小花教你学小提琴",
@@ -232,7 +232,7 @@
             }
           ],
           "icon": "http://thumb103.hellorf.com/preview/297850070.jpg",
-          "image": "http://img01.taopic.com/141107/318753-14110GJP848.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "以琴会友",
@@ -264,12 +264,12 @@
             }
           ],
           "icon": "http://sc.admin5.com/uploads/allimg/100212/102PA3K-8.png",
-          "image": "http://i01.pic.sogou.com/ebcf40cd2d221e98"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         }
       ]
     },
     {
-      "name": "尤克里里系列",
+      "name": "尤克里里",
       "type": 2,
       "course": [
         {
@@ -302,7 +302,7 @@
             }
           ],
           "icon": "http://mvimg1.meitudata.com/55a3be479bda35704.jpg",
-          "image": "http://p3.music.126.net/X858Yf7CzPbmHMkt6xSlwQ==/1372190514741417.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "大伟尤克里里教室",
@@ -334,10 +334,10 @@
             }
           ],
           "icon": "http://mvimg2.meitudata.com/567a9d145896e1634.jpg",
-          "image": "http://img2.ph.126.net/qz7UTzdhOi11NEDHk6oLWw==/6630674140538586635.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
-          "name": "小花教你学钢琴",
+          "name": "小花教你学尤克里里",
           "time": 8,
           "difficulty": 1,
           "info": "我是会卖萌的小花",
@@ -366,7 +366,7 @@
             }
           ],
           "icon": "http://mvimg2.meitudata.com/563de6891d1543761.jpg",
-          "image": "http://mvimg2.meitudata.com/55019a2eb48324709.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "以琴会友",
@@ -398,12 +398,12 @@
             }
           ],
           "icon": "http://pic33.nipic.com/20130911/3347542_161037087374_2.jpg",
-          "image": "http://p5.image.hiapk.com/uploads/allimg/150228/7730-15022QJ911-50.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         }
       ]
     },
     {
-      "name": "钢琴系列",
+      "name": "钢琴",
       "type": 3,
       "course": [
         {
@@ -436,7 +436,7 @@
             }
           ],
           "icon": "http://pic31.nipic.com/20130724/3347542_125158095340_2.jpg",
-          "image": "http://img3.duitang.com/uploads/item/201603/25/20160325164016_EukVF.thumb.700_0.jpeg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "大伟钢琴教室",
@@ -500,7 +500,7 @@
             }
           ],
           "icon": "http://pic33.nipic.com/20130911/3347542_161000095360_2.jpg",
-          "image": "http://attach.66rpg.com/bbs/attachment/album/201510/17/214037f8tuxxguxtizpzk0.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "以琴会友",
@@ -532,12 +532,12 @@
             }
           ],
           "icon": "http://pic33.nipic.com/20130911/3347542_161037087374_2.jpg",
-          "image": "http://p5.image.hiapk.com/uploads/allimg/150228/7730-15022QJ911-50.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         }
       ]
     },
     {
-      "name": "萨克斯系列",
+      "name": "萨克斯",
       "type": 4,
       "course": [
         {
@@ -570,7 +570,7 @@
             }
           ],
           "icon": "http://i01.pic.sogou.com/c4c3d322132a8164",
-          "image": "http://i01.pic.sogou.com/c4c3d322132a8164"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "大伟萨克斯教室",
@@ -634,7 +634,7 @@
             }
           ],
           "icon": "http://pic33.nipic.com/20130911/3347542_161000095360_2.jpg",
-          "image": "http://attach.66rpg.com/bbs/attachment/album/201510/17/214037f8tuxxguxtizpzk0.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         },
         {
           "name": "以琴会友",
@@ -666,7 +666,7 @@
             }
           ],
           "icon": "http://pic33.nipic.com/20130911/3347542_161037087374_2.jpg",
-          "image": "http://p5.image.hiapk.com/uploads/allimg/150228/7730-15022QJ911-50.jpg"
+          "image": "http://77music2.oss-cn-hangzhou.aliyuncs.com/data/attachment/album/201410/09/183339rosn5ry5g6y5orrq.jpg"
         }
       ]
     }
