@@ -21,7 +21,7 @@
 					<li v-for='(item, index) in courses' class='class-right-item'>
 						<div class='class-split'>{{item.name}}</div>
 						<ul>
-							<li v-for='(classItem, index) in item.course' class='class-item'>
+							<li v-for='(classItem, index) in item.course' class='class-item' @click='classItemClick(classItem,$event)'>
 								<img width='100px' height='80px' :src='classItem.image'/>
 								<span class='classItemName'>{{classItem.name}}</span>
 								<span class='classItemTime'>{{classItem.time}}节课</span>
@@ -32,9 +32,11 @@
 				</ul>
 			</div>
 		</div>
+		<courseItem :course='selectedClass' ref='courseItem'></courseItem>
 	</div>
 </template>
 <script type="text/ecmascript-6">
+	import courseItem from '../../components/courseItem/courseItem.vue';
 	import BetterScroll from 'better-scroll';
 	const ERR_OK = 0;
     export default {
@@ -42,6 +44,7 @@
     		return {
     			courses: [],
     			input2: '',
+    			selectedClass: {},
     			difficultyMap: []
     		};
     	},
@@ -64,7 +67,14 @@
     			});
     		},
     		handleIconClick () {
+    		},
+    		classItemClick (classItem, event) {
+    			this.selectedClass = classItem;
+    			this.$refs.courseItem.show();
     		}
+    	},
+    	components: {
+    		courseItem
     	}
     };
 </script>
