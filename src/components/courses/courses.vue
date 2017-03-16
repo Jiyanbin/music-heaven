@@ -32,7 +32,7 @@
 				</ul>
 			</div>
 		</div>
-		<courseItem :course='selectedClass' ref='courseItem'></courseItem>
+		<courseItem :course='selectedClass' :user='user' ref='courseItem'></courseItem>
 	</div>
 </template>
 <script type="text/ecmascript-6">
@@ -43,6 +43,7 @@
     	data () {
     		return {
     			courses: [],
+                user: {},
     			input2: '',
     			selectedClass: {},
     			difficultyMap: []
@@ -56,6 +57,12 @@
     				this.courses = respsonse.data;
     			}
     		});
+            this.$http.get('/api/user').then((respsonse) => {
+                respsonse = respsonse.body;
+                if (respsonse.errno === ERR_OK) {
+                    this.user = respsonse.data;
+                }
+            });
     	},
     	methods: {
     		_initScroll () {
