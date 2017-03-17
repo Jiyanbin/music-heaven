@@ -1,0 +1,78 @@
+.myLearn
+	.header
+		background: rgba(67, 205, 128, .75)
+		color: white
+		.avatar-wrapper
+			text-align: center
+			padding-top: 40px
+			padding-bottom: 20px
+			img
+				border-radius: 50%
+		.text-wrapper
+			text-align: center
+			display: flex
+			padding-bottom: 10px
+			.previewTime
+				flex: 1
+				border-right: 1px solid rgba(7, 17, 27, 0.5)
+				.smallText
+					display: block
+					font-size: 18px
+				.bigText
+					display: inline-block
+					font-size: 30px
+					padding-right: 5px
+					font-weight: 500
+			.hasLearn
+				flex: 1
+				.smallText
+					display: block
+					font-size: 18px
+				.bigText
+					display: inline-block
+					font-size: 30px
+					padding-right: 5px
+					font-weight: 500
+	.course-list-wrapper
+		li:last-child
+			border: none
+		.course-list-header
+			height: 25px
+			line-height: 25px
+			font-size: 0px
+			background: rgba(205, 205, 180, .5)
+			color: rgba(7, 17, 27, .75)
+			span
+				font-size: 15px
+				padding-left: 20px
+			i
+				line-height: 25px
+				font-size: 15px
+				float: right
+				padding-right: 20px
+		.course-item
+			padding: 20px 0
+			margin: 20px 20px
+			border-bottom: 1px solid rgba(7, 17, 27, .3)
+			font-size: 0px
+			.img-wrapper
+				display: inline-block
+				vertical-align: top
+			.desc-wrapper
+				display: inline-block
+				vertical-align: top
+				padding-left: 20px
+				font-size: 16px
+				.name
+					font-size: 20px
+					color: rgba(7, 17, 27, 0.8)
+					font-weight: 500
+				.has-learnTime
+					color: rgba(67, 205, 128, .75)
+					margin-top: 40px
+	.courseItem
+		position: fixed
+		top: 0
+		left: 0
+		z-index: 99
+		background: white

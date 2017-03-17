@@ -29,10 +29,51 @@
     			<div class='course-introduce'>
     				<h2>课程介绍</h2>
     				<p>{{course.info}}</p>
+    				<br/>
+    				<br/>
+    				<br/>
     			</div>
     		</el-tab-pane>
-    		<el-tab-pane label="目录" name="second">目录</el-tab-pane>
-    		<el-tab-pane label="评价" name="third">评价</el-tab-pane>
+    		<el-tab-pane label="目录" name="second">
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    			<br/>
+    		</el-tab-pane>
+    		<el-tab-pane label="评价" name="third" class='evaluate'>
+    			<span class='evaluate-header'>评价详情（{{course.rating}}个人评价）</span>
+    			<ul>
+    				<li class='evaluate-item-wrapper' v-for='(item, index) in course.ratings'>
+    					<div class='avatar-wrapper'>
+	    					<img :src='item.avatar' width='36px' height='36px'/>
+	    				</div>
+	    				<div class='evaluate-text-wrapper'>
+	    					<div class='evaluate-name'>{{item.username}}</div>
+	    					<div class='evaluate-text'>{{item.text}}</div>
+	    				</div>
+    				</li>
+    			</ul>
+    		</el-tab-pane>
   		</el-tabs>
 	</div>
 </template>
@@ -63,7 +104,6 @@
 		},
 		created () {
 			console.log(this.course);
-			this.hasLearn();
 		},
 		methods: {
 			show () {
@@ -87,6 +127,7 @@
 			},
 			hasLearn () {
 				for (let i = 0; i < this.user.hasLearnItems.length; i++) {
+					console.log(this.course.name);
 					if (this.course.name === this.user.hasLearnItems[i].name) {
 						this.attendClass['el-icon-plus'] = false;
 						this.attendClass['el-icon-check'] = true;
