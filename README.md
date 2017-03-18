@@ -2,7 +2,13 @@
 
 > a music webapp  
 > 使用vue2.2框架搭建的SPA应用  
-> 使用vue-router/vue-resource/Element-ui/better-scroll的vue相关插件和组件  
+> 技术栈  
+> 框架: vue2.0  
+> 构建工具: webpack  
+> 路由: vue-router2.0  
+> 前后端通信: vue-resource1.0  
+> 代码风格检查器: ESLint  
+> 开源组件库: Element-ui
 
 ## Build Setup
 
