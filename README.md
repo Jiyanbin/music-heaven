@@ -5,6 +5,7 @@
 > 技术栈  
 > 框架: vue2.0  
 > 构建工具: webpack  
+> CSS预处理器: stylus  
 > 路由: vue-router2.0  
 > 前后端通信: vue-resource1.0  
 > 代码风格检查器: ESLint  
