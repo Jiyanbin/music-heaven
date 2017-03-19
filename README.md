@@ -4,6 +4,7 @@
 > 使用vue2.2框架搭建的SPA应用  
 > 技术栈  
 > 框架: vue2.0  
+> 语言: es6  
 > 构建工具: webpack  
 > CSS预处理器: stylus  
 > 路由: vue-router2.0  
